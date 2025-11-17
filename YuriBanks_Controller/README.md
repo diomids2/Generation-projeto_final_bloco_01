@@ -1,3 +1,5 @@
+<img src="https://github.com/diomids2/Generation-projeto_final_bloco_01/blob/Controller/YuriBanks_Controller/print2.png?raw=true" alt="Texto Alternativo"> 
+
 # Yuri Banks — Etapa 3 (Controller + CRUD)
 
 Esta etapa adiciona a **Camada Controller** com **CRUD completo** (Criar, Listar/Buscar, Atualizar e Excluir) usando **Collections** (`Map`, `Set`) para índices e cache.
