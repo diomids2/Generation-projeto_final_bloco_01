@@ -1,0 +1,20 @@
+{
+  "name": "YuriBanks",
+  "version": "3.1.0",
+  "description": "Yuri Banks - Menu com Enter (aceita 10), Controller + CRUD com Collections.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/index.js",
+    "dev": "nodemon --watch src --ext ts --exec \"ts-node src/index.ts\""
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.4",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.6.3"
+  }
+}
