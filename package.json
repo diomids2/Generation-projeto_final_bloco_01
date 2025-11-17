@@ -1,0 +1,27 @@
+{
+  "name": "YuriBanks",
+  "version": "1.0.0",
+  "description": "Aplica\u00e7\u00e3o de console (TypeScript) no estilo Conta Banc\u00e1ria com menu e opera\u00e7\u00f5es banc\u00e1rias.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/index.js",
+    "dev": "nodemon --watch src --ext ts --exec \"ts-node src/index.ts\""
+  },
+  "keywords": [
+    "bank",
+    "console",
+    "typescript",
+    "readline-sync"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.4",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.6.3"
+  }
+}
