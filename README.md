@@ -1,4 +1,7 @@
 
+
+<img src="https://github.com/diomids2/Generation-projeto_final_bloco_01/blob/Model_repository/Captura%20de%20tela%202025-11-17%20190803.png?raw=true" alt="Texto Alternativo"> 
+
 # YuriBanks
 
 Aplicativo de console em **TypeScript** (Node.js) com **readline-sync**, inspirado no projeto **Conta Bancária**.
@@ -42,5 +45,3 @@ src/
   utils/io.ts         # Entrada/saída, validacao e cores
   index.ts            # Ponto de entrada
 ```
-
-Captura de tela 2025-11-17 190803.png
