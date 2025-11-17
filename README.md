@@ -42,3 +42,5 @@ src/
   utils/io.ts         # Entrada/saída, validacao e cores
   index.ts            # Ponto de entrada
 ```
+
+Captura de tela 2025-11-17 190803.png
