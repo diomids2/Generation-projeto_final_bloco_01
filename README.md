@@ -14,7 +14,7 @@ Aplicativo de console em **TypeScript** (Node.js) com **readline-sync**, inspira
 - Encerrar conta (somente com saldo zerado)
 
 ## Requisitos
-- Node.js 18+
+- Node.js
 
 ## Instalacao
 ```bash
